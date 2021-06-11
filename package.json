@@ -1,5 +1,6 @@
 {
   "name": "myPortfolio",
+  "author": "Philip_Rockyboy_Fuentes",
   "version": "1.0.1",
   "description": "Welcome to my Profile!",
   "main": "index.js",
